@@ -1,0 +1,39 @@
+F:\مجلد جديد\2.dönem-Tip Müh 3\TMH306_Tıbbi Görüntü İşleme_1\1.ders\1.ders\bin\Debug\1.ders.exe.config
+F:\مجلد جديد\2.dönem-Tip Müh 3\TMH306_Tıbbi Görüntü İşleme_1\1.ders\1.ders\bin\Debug\1.ders.exe
+F:\مجلد جديد\2.dönem-Tip Müh 3\TMH306_Tıbbi Görüntü İşleme_1\1.ders\1.ders\bin\Debug\1.ders.pdb
+F:\مجلد جديد\2.dönem-Tip Müh 3\TMH306_Tıbbi Görüntü İşleme_1\1.ders\1.ders\obj\Debug\1.ders.csprojAssemblyReference.cache
+F:\مجلد جديد\2.dönem-Tip Müh 3\TMH306_Tıbbi Görüntü İşleme_1\1.ders\1.ders\obj\Debug\_1.ders.Form1.resources
+F:\مجلد جديد\2.dönem-Tip Müh 3\TMH306_Tıbbi Görüntü İşleme_1\1.ders\1.ders\obj\Debug\_1.ders.pikselFr.resources
+F:\مجلد جديد\2.dönem-Tip Müh 3\TMH306_Tıbbi Görüntü İşleme_1\1.ders\1.ders\obj\Debug\_1.ders.Properties.Resources.resources
+F:\مجلد جديد\2.dönem-Tip Müh 3\TMH306_Tıbbi Görüntü İşleme_1\1.ders\1.ders\obj\Debug\1.ders.csproj.GenerateResource.cache
+F:\مجلد جديد\2.dönem-Tip Müh 3\TMH306_Tıbbi Görüntü İşleme_1\1.ders\1.ders\obj\Debug\1.ders.csproj.CoreCompileInputs.cache
+F:\مجلد جديد\2.dönem-Tip Müh 3\TMH306_Tıbbi Görüntü İşleme_1\1.ders\1.ders\obj\Debug\1.ders.exe
+F:\مجلد جديد\2.dönem-Tip Müh 3\TMH306_Tıbbi Görüntü İşleme_1\1.ders\1.ders\obj\Debug\1.ders.pdb
+F:\NUR-TIP MUHANDISLIGI\2.dönem-Tip Müh 3\TMH306_Tıbbi Görüntü İşleme_1\1.ders\1.ders\bin\Debug\1.ders.exe.config
+F:\NUR-TIP MUHANDISLIGI\2.dönem-Tip Müh 3\TMH306_Tıbbi Görüntü İşleme_1\1.ders\1.ders\bin\Debug\1.ders.exe
+F:\NUR-TIP MUHANDISLIGI\2.dönem-Tip Müh 3\TMH306_Tıbbi Görüntü İşleme_1\1.ders\1.ders\bin\Debug\1.ders.pdb
+F:\NUR-TIP MUHANDISLIGI\2.dönem-Tip Müh 3\TMH306_Tıbbi Görüntü İşleme_1\1.ders\1.ders\obj\Debug\1.ders.csprojAssemblyReference.cache
+F:\NUR-TIP MUHANDISLIGI\2.dönem-Tip Müh 3\TMH306_Tıbbi Görüntü İşleme_1\1.ders\1.ders\obj\Debug\_1.ders.Form1.resources
+F:\NUR-TIP MUHANDISLIGI\2.dönem-Tip Müh 3\TMH306_Tıbbi Görüntü İşleme_1\1.ders\1.ders\obj\Debug\_1.ders.invertFr.resources
+F:\NUR-TIP MUHANDISLIGI\2.dönem-Tip Müh 3\TMH306_Tıbbi Görüntü İşleme_1\1.ders\1.ders\obj\Debug\_1.ders.pikselFr.resources
+F:\NUR-TIP MUHANDISLIGI\2.dönem-Tip Müh 3\TMH306_Tıbbi Görüntü İşleme_1\1.ders\1.ders\obj\Debug\_1.ders.Properties.Resources.resources
+F:\NUR-TIP MUHANDISLIGI\2.dönem-Tip Müh 3\TMH306_Tıbbi Görüntü İşleme_1\1.ders\1.ders\obj\Debug\1.ders.csproj.GenerateResource.cache
+F:\NUR-TIP MUHANDISLIGI\2.dönem-Tip Müh 3\TMH306_Tıbbi Görüntü İşleme_1\1.ders\1.ders\obj\Debug\1.ders.csproj.CoreCompileInputs.cache
+F:\NUR-TIP MUHANDISLIGI\2.dönem-Tip Müh 3\TMH306_Tıbbi Görüntü İşleme_1\1.ders\1.ders\obj\Debug\1.ders.exe
+F:\NUR-TIP MUHANDISLIGI\2.dönem-Tip Müh 3\TMH306_Tıbbi Görüntü İşleme_1\1.ders\1.ders\obj\Debug\1.ders.pdb
+F:\NUR-TIP MUHANDISLIGI\2.dönem-Tip Müh 3\TMH306_Tıbbi Görüntü İşleme_1\1.ders\1.ders\obj\Debug\_1.ders.parlaklikFr.resources
+F:\NUR-TIP MUHANDISLIGI\2.dönem-Tip Müh 3\TMH306_Tıbbi Görüntü İşleme_1\1.ders\1.ders\obj\Debug\_1.ders.griFr.resources
+C:\Users\nur14\Desktop\v\1.ders\bin\Debug\1.ders.exe.config
+C:\Users\nur14\Desktop\v\1.ders\bin\Debug\1.ders.exe
+C:\Users\nur14\Desktop\v\1.ders\bin\Debug\1.ders.pdb
+C:\Users\nur14\Desktop\v\1.ders\obj\Debug\1.ders.csprojAssemblyReference.cache
+C:\Users\nur14\Desktop\v\1.ders\obj\Debug\_1.ders.Form1.resources
+C:\Users\nur14\Desktop\v\1.ders\obj\Debug\_1.ders.griFr.resources
+C:\Users\nur14\Desktop\v\1.ders\obj\Debug\_1.ders.invertFr.resources
+C:\Users\nur14\Desktop\v\1.ders\obj\Debug\_1.ders.parlaklikFr.resources
+C:\Users\nur14\Desktop\v\1.ders\obj\Debug\_1.ders.pikselFr.resources
+C:\Users\nur14\Desktop\v\1.ders\obj\Debug\_1.ders.Properties.Resources.resources
+C:\Users\nur14\Desktop\v\1.ders\obj\Debug\1.ders.csproj.GenerateResource.cache
+C:\Users\nur14\Desktop\v\1.ders\obj\Debug\1.ders.csproj.CoreCompileInputs.cache
+C:\Users\nur14\Desktop\v\1.ders\obj\Debug\1.ders.exe
+C:\Users\nur14\Desktop\v\1.ders\obj\Debug\1.ders.pdb
